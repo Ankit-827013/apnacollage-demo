@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my first Git Repository.
 <br>
-Author- Ankit kumar
+Author- Ankit kumar (apna collage)
